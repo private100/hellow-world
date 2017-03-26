@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hahahahaha xixiixix
+=======
+hahahahaha
+>>>>>>> 6c940a32d5357abacd5fb8b2b97e184fba209000
+
+xixixi
